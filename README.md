@@ -2,23 +2,19 @@
 
 This is the tutorial code for my two part series **Modular Layouts in React**. You can visit these articles here:
 
--   <a href="https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-1">Modular Layouts in React Part 1</a>
--   <a href="https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-2">Modular Layouts in React Part 2</a>
+-   <a href="https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-1" target="_blank">Modular Layouts in React Part 1</a>
+-   <a href="https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-2" target="_blank">Modular Layouts in React Part 2</a>
 
 Get started with each of these repositories:
 
 -   [Part 1](#part-1-contents)
 -   [Part 2](#part-2-contents)
 
-## Overview:
-
-Modular Layouts allow for quick, iterative content composition across your site. They abstract away the nuance of complex grid processes, and allow you to focus on creating engaging and responsive layouts.
-
 ## Part 1 Contents:
 
--   [Finish](part-1/finish)
+-   [Finish Directory](part-1/finish)
     -   View the `final` code for part one's tutorial
--   [Examples](part-1/examples)
+-   [Examples Directory](part-1/examples)
     -   View some of the `examples` from part one
 
 ## Part 1 Usage:
@@ -57,9 +53,9 @@ You should see the following in our `localhost`:
 
 ## Part 2 Contents:
 
--   [Tutorial](part-2/tutorial)
+-   [Tutorial Directory](part-2/tutorial)
     -   View the `start` and `final` code for this tutorial
--   [Examples](part-2/examples)
+-   [Examples Directory](part-2/examples)
     -   View some of the `examples` from part two
 
 ## Part 2 Usage:
