@@ -2,8 +2,8 @@
 
 This is the tutorial code for my two part series **Modular Layouts in React**. You can visit these articles here:
 
--   [Modular Layouts in React Part 1](https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-1)
--   [Modular Layouts in React Part 2](https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-1)
+-   <a href="https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-1">Modular Layouts in React Part 1</a>
+-   <a href="https://www.jeremysbarnes.com/blog/creating-modular-layouts-in-react-part-2">Modular Layouts in React Part 2</a>
 
 Get started with each of these repositories:
 
