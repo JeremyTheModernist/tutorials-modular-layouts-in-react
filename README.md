@@ -37,6 +37,20 @@ yarn start
 
 You should see the following in your `localhost`:
 
-<br/>
-
 ![Finish Home Screen](/images/part-1-finish.jpg)
+
+#### Part-1 Examples
+
+To see the `examples`, navigate into the `examples` folder, and run the following commands from the terminal:
+
+```bash
+
+cd example-1
+yarn install
+yarn start
+
+```
+
+You should see the following in our `localhost`:
+
+![example 1](/images/part-1-example-1.jpg)
