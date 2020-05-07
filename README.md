@@ -13,7 +13,7 @@ Get started with each of these repositories:
 ## Part 1 Contents:
 
 -   [Finish Directory](part-1/finish)
-    -   View the `final` code for part one's tutorial
+    -   View the final code for part one's tutorial
 -   [Examples Directory](part-1/examples)
     -   View some of the `examples` from part one
 
@@ -54,7 +54,7 @@ You should see the following in our `localhost`:
 ## Part 2 Contents:
 
 -   [Tutorial Directory](part-2/tutorial)
-    -   View the `start` and `final` code for this tutorial
+    -   View the `start` and `finish` code for this tutorial
 -   [Examples Directory](part-2/examples)
     -   View some of the `examples` from part two
 
