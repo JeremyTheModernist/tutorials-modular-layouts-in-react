@@ -12,8 +12,25 @@ You can view each of those repositories here:
 
 ## Overview:
 
-Dynamic Layouts allow for quick, iterative content composition across your site. They abstract away the nuance of complex grid processes, and allow you to focus on creating engaging and responsive layouts.
+Modular Layouts allow for quick, iterative content composition across your site. They abstract away the nuance of complex grid processes, and allow you to focus on creating engaging and responsive layouts.
 
 ## Part 1 Contents:
 
--
+-   [Finish](finish)
+    -   View the final code for part one's tutorial
+-   [Examples](examples)
+    -   View some of the examples from part one
+
+## Part 1 Usage:
+
+To see the final code for part-1, clone this repository and open it in your code editor. Next, open your terminal and run the following commands:
+
+```bash
+
+cd <locationOfRootProjectDirectory>
+cd part-1
+cd finish
+yarn install
+yarn start
+
+```
