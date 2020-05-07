@@ -39,4 +39,4 @@ You should see the following in your `localhost`:
 
 <br/>
 
-![Finish Home Screen](./images/part-1-finish.jpg)
+![Finish Home Screen](/images/part-1-finish.jpg)
