@@ -23,7 +23,7 @@ Modular Layouts allow for quick, iterative content composition across your site.
 
 ## Part 1 Usage:
 
-To see the final code for part-1, clone this repository and open it in your code editor. Next, open your terminal and run the following commands:
+To see the final code for `part-1`, clone this repository and open it in your code editor. Next, open your terminal and run the following commands:
 
 ```bash
 
@@ -34,3 +34,9 @@ yarn install
 yarn start
 
 ```
+
+You should see the following in your `localhost`:
+
+<br/>
+
+![Finish Home Screen](./images/part-1-finish.jpg)
