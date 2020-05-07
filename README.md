@@ -93,4 +93,4 @@ You should see the following in our `localhost`:
 
 ![Example Screen](/images/part-2-example-1.jpg)
 
-Thanks for following along. If have enjoyed this tutorial, you can find more of [my writing here](https://www.jeremysbarnes.com/blog).
+Thanks for following along. If have enjoyed this tutorial, you can find more of <a href="https://www.jeremysbarnes.com/blog" target="_blank">my writing here</a>.
